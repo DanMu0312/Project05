@@ -7,3 +7,4 @@
  “Project 05 version2 completed” 
 “3rd Team Member: < --- 양상록 --->”
 “3rdTeam Member: < --- 20241060 --->”
+ “Project 05 version3 completed” 
